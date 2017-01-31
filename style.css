@@ -26,6 +26,7 @@
     border: 2px solid #fff;
     border-radius: 10px;
     background: goldenrod;
+    cursor: pointer;
 }
 .top
 {
@@ -44,3 +45,6 @@ p
 
     color: green;
 }
+#menos {cursor: pointer;}
+#mas {cursor: pointer;}
+#minutos {cursor: none;}
