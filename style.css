@@ -1,0 +1,46 @@
+*
+{
+    font-family: 'Titillium Web', sans-serif;
+
+    background: #000;
+}
+.container
+{
+    display: flex;
+    flex-direction: column;
+
+    min-height: 50vh;
+
+    align-items: center;
+    justify-content: center;
+}
+.timer
+{
+    font-size: 100px;
+
+    width: 220px;
+    height: 80px;
+    margin-top: 10px;
+
+    color: #000;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background: goldenrod;
+}
+.top
+{
+    font-size: 20px;
+
+    text-align: center;
+
+    color: #fff;
+}
+p
+{
+    font-family: 'Pangolin', cursive;
+    font-size: 40px;
+
+    text-align: center;
+
+    color: green;
+}
